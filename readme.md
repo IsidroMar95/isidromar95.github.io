@@ -12,6 +12,9 @@ Isidro Martínez
 [@IsidroMar95](https://github.com/IsidroMar95)
 
 ## Version History
+* 0.4
+    * updated information
+
 * 0.3
     * minor modifications
 
