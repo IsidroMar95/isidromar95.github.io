@@ -8513,13 +8513,12 @@ body {
 }
 
 .theme-bg-primary {
-  background-color: #328998;
+  background-color: #434E5E;
 }
 
 .theme-bg-primary-darken {
-  background-color: #19444b;
+  background-color: #191d22;
 }
-
 a.theme-btn-on-bg, .theme-btn-on-bg {
   background: rgba(0, 0, 0, 0.2);
   color: #fff;
@@ -8537,7 +8536,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .theme-progress-bar-dark {
-  background-color: #328998;
+  background-color: #434E5E;
 }
 
 .resume-wrapper {
@@ -8550,13 +8549,13 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-header {
-  background: #328998;
+  background: #434E5E;
   color: rgba(255, 255, 255, 0.9);
   height: 220px;
 }
 
 .resume-header .picture {
-  width: 220px;
+  width: 176px;
 }
 
 .resume-header .name {
@@ -8588,13 +8587,13 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   height: 24px;
   border-radius: 0.125rem;
   background: white;
-  color: #328998;
+  color: #434E5E;
 }
 
 .resume-section-title {
   font-size: 1.25rem;
   position: relative;
-  color: #328998;
+  color: #434E5E;
 }
 
 .resume-section-title:after {
@@ -8620,7 +8619,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   display: inline-block;
   width: 3px;
   height: 100%;
-  background: #b1dee5;
+  background: #aab4c3;
   left: 6px;
   top: 4px;
   position: absolute;
@@ -8634,7 +8633,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   top: 3px;
   width: 15px;
   height: 15px;
-  border: 4px solid #3facbe;
+  border: 4px solid #58677c;
   background: white;
   border-radius: 50%;
 }
