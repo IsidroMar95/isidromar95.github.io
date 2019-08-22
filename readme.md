@@ -13,6 +13,11 @@ Isidro Martínez
 
 ## Version History
 
+- 1.0.1
+
+  - updated information
+  - added twitter info
+
 - 1.0
 
   - updated information
