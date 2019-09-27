@@ -13,6 +13,12 @@ Isidro Martínez
 
 ## Version History
 
+- 1.1.0
+
+  - updated information
+  - added "actividad" section
+  - added new job
+
 - 1.0.1
 
   - updated information
